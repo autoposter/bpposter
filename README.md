@@ -1,0 +1,2 @@
+# bpposter
+bp auto poster
